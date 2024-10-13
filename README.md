@@ -1,7 +1,7 @@
 <a  href="https://github.com/braandev"> ![Banner de LinkedIn Tecnología Abstracto Azul y Blanco (4)](https://github.com/user-attachments/assets/763a22ec-d3a4-40a4-8258-6231e4a53b7b) </a>
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Cazorla Costa
+Hi i'm Brandon Cazorla Costa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================================
 
 @braandev  on social media
