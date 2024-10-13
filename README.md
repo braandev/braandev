@@ -8,6 +8,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a Computer Engineering student, currently halfway through my degree. I specialize in both front-end and back-end development and am always in a constant state of learning. I am passionate about creating innovative, productive, and creative solutions, with a focus on building projects that add value.
 
+
+![1_dDRXeF51Q_1ixR5Z3PhT2Q](https://github.com/user-attachments/assets/159c4b00-7bf9-41ef-bb6d-d053de6a43ec)
+
+
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [brandondev.contacto@gmail.com](mailto:brandondev.contacto@gmail.com)
 * 🧠  I'm learning HTML - C - JAVASCRIPT - CSS - SASS - REACT JS...
