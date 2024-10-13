@@ -19,7 +19,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [brandondev.contacto@gmail.com](mailto:brandondev.contacto@gmail.com)
 * 🌱  I'm currently learning HTML - C - JAVASCRIPT - CSS - SASS - REACT JS...
-* Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books and personal development.
 * 🤝  I'm open to collaborating on open source projects and swap knowledge with other coders.
 * ⚡  Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 
