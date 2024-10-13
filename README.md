@@ -1,7 +1,10 @@
+<img src="![Banner de LinkedIn Tecnología Abstracto Azul y Blanco (3)](https://github.com/user-attachments/assets/51516bb8-3817-46c6-97e8-dd19af84da11)
+"> 
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Cazorla Costa
 =============================================================================================================================================
 
-@braandev
+@braandev  on social media
 ---------
 
 I am a Computer Engineering student, currently halfway through my degree. I specialize in both front-end and back-end development and am always in a constant state of learning. I am passionate about creating innovative, productive, and creative solutions, with a focus on building projects that add value.
